@@ -1,4 +1,4 @@
-<center><img src="{{ site.baseurl }}/empetrum.png" alt="Img"></center>
+<center><img src="{{ site.baseurl }}/Empetrum.png" alt="Img"></center>
 
 To add images, replace `tutheaderbl1.png` with the file name of any image you upload to your GitHub repository.
 
